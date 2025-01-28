@@ -1,4 +1,4 @@
-package doublylinkedlist.onlineticket;
+package doublylinkedlist.undoredo;
 
 class TextEditor {
     private TextState currentState;

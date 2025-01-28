@@ -1,4 +1,4 @@
-package doublylinkedlist.onlineticket;
+package doublylinkedlist.undoredo;
 import java.util.Scanner;
 
 public class TextEditorUndoRedo {
